@@ -48,7 +48,15 @@ ______
 
 # 💜 Roadmap de ReactJS
 
-`Acesse aqui` : [trilha ReactJS](https://miro.com/app/board/uXjVOfD6Q_0=/?invite_link_id=954992108760) 
+`Roadmap` : [trilha ReactJS](https://miro.com/app/board/uXjVOfD6Q_0=/?invite_link_id=954992108760) 
+
+`Iniciar nos testes unitários` : [React Testing Library](https://www.youtube.com/watch?v=pLfdbpkl3iM&t=181s) 
+
+`ReactJS para iniciantes` : [Minha palestra no FrontIn Elas Programam](https://www.youtube.com/watch?v=FwsZ9vp88IA&t=16407s)
+
+`Slides da palestra` : [Slides da palestra](https://www.canva.com/design/DAE_LO2y4t4/uee6uXADTLysqP3NRQXHuw/view?utm_content=DAE_LO2y4t4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+`5 Projetinhos para estudar` : [Projetos sugeridos na palestra](https://github.com/simaraconceicao/react-frontin-elas-programam)
 
 # 😎 Rotas - React Router
 
@@ -146,6 +154,7 @@ export default App;
 
 Passo a passo
 
+**Para Sala**
 [ ]Criar organização das pastas
 
 [ ] Criar rotas
@@ -159,8 +168,7 @@ Passo a passo
   - [ ] Projetos usando axios
   - [ ] Comentários usando localStorage
 
-**Para Quinta**
-[ ] Subir no netlify e incluir a configuração de redirects - Quinta-feira
+[ ] Subir no netlify e incluir a configuração de redirects
 
 **Para Casa**
 [ ] Criar e incluir footer
