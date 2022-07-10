@@ -1,5 +1,5 @@
 # On17 - ReactJS | Aula 03
-![image](https://i.gifer.com/Aro9.gif)
+![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
 
 ## Recebam minhas boas vindas!
 
