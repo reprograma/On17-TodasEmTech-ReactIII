@@ -155,20 +155,20 @@ export default App;
 Passo a passo
 
 **Para Sala**
-[ ]Criar organização das pastas
+[x]Criar organização das pastas
 
-[ ] Criar rotas
+[x] Criar rotas
 
-[ ] Criar Menu
+[x] Criar Menu
 
-[ ] Criar Header
+[x] Criar Header
 
 [ ] Criar páginas
 
   - [ ] Projetos usando axios
-  - [ ] Comentários usando localStorage
+  - [x] Comentários usando localStorage
 
-[ ] Subir no netlify e incluir a configuração de redirects
+[x] Subir no netlify e incluir a configuração de redirects
 
 **Para Casa**
 [ ] Criar e incluir footer
