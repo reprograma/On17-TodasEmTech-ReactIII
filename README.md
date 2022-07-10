@@ -1,5 +1,5 @@
 # On17 - ReactJS | Aula 03
-![image](https://people.com/webstory/what-stars-bought-with-their-first-paychecks/assets/5.gif)
+![image](https://i.gifer.com/Aro9.gif)
 
 ## Recebam minhas boas vindas!
 
