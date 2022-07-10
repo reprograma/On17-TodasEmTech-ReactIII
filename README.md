@@ -221,14 +221,11 @@ Passo a passo
 
 `- Eu fiz o meu, vem aqui entender melhor e se inspirar`: [Meu portfólio da reprograma](https://react-project-3.netlify.app/) 
 
-> Passo a passo:
-1) Crie um projeto react com vite
-2) Apague as informações default
-3) Crie componentes para cada seção (Serão 5 conforme acima)
-4) Import no App.jsx os componentes criados para montar o seu portfólio, perceba os erros/warnings que o terminal/console mostra, resolva e faça todos os componentes renderizar na tela 
-5) Suba esse projeto no github, atualize o read me contando tudo o que você aprendeu e usou nesta segunda aula. E suba no classroom.
-6) Tente fazer em tempo hábil pra aproveitar a aula de quinta e as monitorias pra tirar dúvidas.
-7) Arraseee! E qualquer coisa, me chama!
+> Entrega pelo classroom
+1) Link do github
+2) Link do projeto no ar com o deploy feito pelo netlify
+3) Tente fazer em tempo hábil pra aproveitar a aula de quinta e as monitorias pra tirar dúvidas.
+4) Arraseee! E qualquer coisa, me chama!
 
 ---
 
