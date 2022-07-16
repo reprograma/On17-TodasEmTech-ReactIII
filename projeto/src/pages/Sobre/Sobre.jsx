@@ -9,7 +9,10 @@ function Sobre({image, description}) {
       description="minha foto">
       <img src={eu} alt={description}/>
       <h2>Meu nome é Juliana</h2>
+
+      <h3>Sou formada em Biologia e atualmente sou estudante de programação</h3>
     </Header>
+
   )
  }
  

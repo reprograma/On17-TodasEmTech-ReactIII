@@ -1,7 +1,7 @@
 .sobre {
     padding: 80px;
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
     background-color:#686AAC;
     background-size: cover;
     height: 500px;
@@ -10,6 +10,11 @@
   
   .sobre h1 {
     font-size: 40px;
+    
+  }
+
+  .sobre h2 {
+    color: white;
   }
   
   .sobre img {
