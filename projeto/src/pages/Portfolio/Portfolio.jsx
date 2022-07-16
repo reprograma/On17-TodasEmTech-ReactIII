@@ -6,8 +6,7 @@ function Portfolio() {
    <Header 
       image={image} 
       description="ilustracao mulher com site"
-    >
-      Meus Projetos
+    >Meus Projetos
     </Header>
   )
  }
