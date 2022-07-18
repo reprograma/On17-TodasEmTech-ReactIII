@@ -163,9 +163,9 @@ Passo a passo
 
 [x] Criar Header
 
-[ ] Criar páginas
+[x] Criar páginas
 
-  - [ ] Projetos usando axios
+  - [x] Projetos usando axios
   - [x] Comentários usando localStorage
 
 [x] Subir no netlify e incluir a configuração de redirects
@@ -173,7 +173,7 @@ Passo a passo
 **Para Casa**
 [ ] Criar e incluir footer
 
-[ ] Criar e inclir páginas 
+[ ] Criar e incluir páginas 
 
   - [ ] Sobre
   - [ ] Diário da reprograma
